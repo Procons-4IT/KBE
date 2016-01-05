@@ -1,0 +1,7 @@
+<Application>
+  <Menus>
+    <action type="add">
+      <Menu UniqueID="Z_mnu_OUPO" Type="1" String="Update Production Order" Position="2" Image="" FatherUID="4352" Enabled="1" Checked="0"/>
+    </action>
+  </Menus>
+</Application>
